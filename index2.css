@@ -26,7 +26,7 @@ body {
 .canvas {
 	background-color: var(--bg-color);
 	overflow-x: hidden;
-    background: url('https://critrluvr.github.io/img/pastel-gradient.gif');
+    background: url('/img/pastel-gradient.gif');
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
